@@ -1,0 +1,25 @@
+body{
+  color: white !important;
+}
+
+main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+section{
+  width: 30%;
+}
+
+#memory{
+  display: none ;
+}
+
+.btn{
+  color: white ;
+}
+
+.col-3 > span{
+  width: 100%;
+}
